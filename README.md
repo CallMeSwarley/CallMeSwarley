@@ -64,7 +64,7 @@ Check out my public repositories on GitHub!
 | [![GiantRobotsVR](https://img.youtube.com/vi/VV73wE3DPkc/hqdefault.jpg)](https://www.youtube.com/watch?v=VV73wE3DPkc) | **[GiantRobotsVR](https://github.com/CallMeSwarley/GiantRobotsVR)** - An immersive RPG for the Meta Quest 3 that uses hand gestures and voice (no controllers). LLM-powered NPCs enable dynamic conversations and agentic AI opponents while tracking player Karma. Text-to-speech and speech-to-text via Wit.ai make dialogues natural. Klick on the Image to see the trailer on YT! <br><br>**Tech:** `Unity 3D` `C#` `AI Agents` `LLM` `Meta Quest 3` `VR` |
 | [![Bachelor Thesis](https://raw.githubusercontent.com/CallMeSwarley/CallMeSwarley/fcf590611f52fe21c20762ac72e9002667788d52/images/bachelorImage.png)](https://github.com/CallMeSwarley/BachelorThesis) | **[Bachelor Thesis](https://github.com/CallMeSwarley/BachelorThesis)** - Distributed AR for industrial settings: Python server for glTF handling, voxel carving + Marching Cubes for mesh generation, Vuforia AR tracking, lightweight 3D model sharing and remote collaboration. <br><br>**Tech:** `Unity` `Python` `AR` `C#` `Vuforia` `glTF` `Optimization` |
 | [![PuzzleHunt](https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg)](https://github.com/CallMeSwarley/PuzzleHunt) | **[PuzzleHunt](https://github.com/CallMeSwarley/Puzzle-Hunt)** - Social mobile game where players collect puzzle pieces in the real world, combine them, gamble at dealers, buy pieces in shops, and trade with friends. <br><br>**Tech:** `Android` `Java` `Firebase` `MongoDB` `Maps` |
-| [![SpielStopp](https://raw.githubusercontent.com/CallMeSwarley/CallMeSwarley/8d2c71e4faff771ea7e53de9a5e0fc75b1947ce6/images/spielstoppIMG.png)](https://github.com/CallMeSwarley/SpielStopp) | **[SpielStopp](https://github.com/CallMeSwarley/SpielStopp)** - Store simulation app for employee onboarding; interactive training environment that improves familiarity with store operations. <br><br>**Tech:** `Unity` `C#` `Serious Game` `Rider` `Mixamo` `Plastic SCM` |
+| [![SpielStopp](https://raw.githubusercontent.com/CallMeSwarley/CallMeSwarley/8d2c71e4faff771ea7e53de9a5e0fc75b1947ce6/images/spielstoppIMG.png)](https://github.com/CallMeSwarley/SpielStopp) | **[SpielStopp](https://github.com/CallMeSwarley/SpielStopp)** - Store simulation app for employee onboarding; interactive training environment that improves familiarity with store operations. <br><br>**Tech:** `Unity` `C#` `Serious Game` `Gameification` |
 
 ---
 
@@ -72,6 +72,6 @@ Check out my public repositories on GitHub!
 If you're interested in collaborating or have questions, reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-amougou)  
-**Discord:** `amougou_mbida` — drop me a message!
+**Discord:** `amougou_mbida` - drop me a message!
 
-I'm always open to new opportunities — feel free to reach out.
+I'm always open to new opportunities - feel free to reach out.
