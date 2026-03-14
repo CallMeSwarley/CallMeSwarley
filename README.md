@@ -48,7 +48,7 @@ Check out my public repositories on GitHub!
 ![Full-Stack](https://img.shields.io/badge/-Full--Stack-10B981)
 ![Automation](https://img.shields.io/badge/-Automation-F59E0B)
 ![Observability](https://img.shields.io/badge/-Observability-EF4444)
-![Gamification](https://img.shields.io/badge/-Gameification-8B5CF6)
+![Gamification](https://img.shields.io/badge/-Gamification-8B5CF6)
 
 ### Languages
 ![German](https://img.shields.io/badge/-German-FFCE00)
