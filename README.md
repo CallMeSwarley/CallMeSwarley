@@ -42,7 +42,7 @@ Check out my public repositories on GitHub!
 ### AI / ML / Product
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-7C3AED)
 ![RAG](https://img.shields.io/badge/-RAG-FF7A18)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?logo=pytorch&logoColor=white)
 ![Frontend](https://img.shields.io/badge/-Frontend-06B6D4)
 ![Backend](https://img.shields.io/badge/-Backend-0EA5A4)
 ![Full-Stack](https://img.shields.io/badge/-Full--Stack-10B981)
